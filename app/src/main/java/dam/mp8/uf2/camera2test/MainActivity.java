@@ -29,6 +29,10 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/** Codi extret de la següent llista de reproducció del videotutorial Android Camera2 API
+ * El codi d'aquest exemple només és el codi que s'insereix a partir del Vídeo 2 i fins al Vídeo 5.
+ * Llista de reproducció: https://youtu.be/D423T5JVF-s?list=PL9jCwTXYWjDJUJATHM0Lrjk9N5n6QZqBg
+ */
 public class MainActivity extends AppCompatActivity {
     private static final int ACTIVITY_START_CAMERA_APP = 0;
     private static final int STATE_PREVIEW = 0;
